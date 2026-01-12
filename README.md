@@ -1,2 +1,2 @@
 # Machine-Learning-Projects
-UIUC Computer Science Machine Learning Projects
+Machine Learning Projects through UIUC CS Coursework and personal projects
